@@ -9,6 +9,7 @@ body {
 h1 {
     font-size: 50px;
     color: white;
+    font-weight: normal;
 }
 
 nav {
@@ -19,6 +20,7 @@ nav {
 h2 {
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 p {
