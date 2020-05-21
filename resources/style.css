@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header p {
+    font-size: 50px;
+    color: white;
+    align-content: center;
+}
+
+nav {
+    color: aquamarine;
+    font-size: 16px;
+}
+
